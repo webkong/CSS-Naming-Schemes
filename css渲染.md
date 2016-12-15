@@ -48,10 +48,24 @@
 
 >所以，采用从右向左匹配就会在发现最后边或者次右边的选择器不匹配，整个规则就可以跳过了。
 
+在css模块化了之后，模块打包到一个css文件中了。 比如： 
+
+
+```
+.model_a a{...}
+.model_b a{...}
+.model_c a{...}
+.model_d a{...}
+
+```
+
+浏览器会遍历所有的a，所以加大了匹配时间，所以，提倡不用tag标签来定义样式，一律用类 `.class`
+
+
 
 ### 参考
 
 [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 
-
+[Why do browsers match CSS selectors from right to left?](http://stackoverflow.com/questions/5797014/why-do-browsers-match-css-selectors-from-right-to-left)
 
