@@ -67,5 +67,7 @@
 
 [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 
+[中文 How browsers work](http://www.cnblogs.com/lhb25/p/how-browsers-work.html#The_browsers_we_will_talk_about)
+
 [Why do browsers match CSS selectors from right to left?](http://stackoverflow.com/questions/5797014/why-do-browsers-match-css-selectors-from-right-to-left)
 
