@@ -6,8 +6,11 @@ CSS的命名规则/准则/方案
 
 通过平时写css的积累和站在前人的肩膀上来总结一下css的方案。
 
-
-
 个人倾向于维护自己的一套框架，使用在不同的场景抽离不同的组件、模块和通用样式。
 
 本文，50%的内容都来自这个地方[CSS规范](http://nec.netease.com/standard/css-sort.html),个人比较同意这种方式的分类和规划。所以总结了一下。主要是给公司新来的同事看。
+
+
+
+开源地址：[https://webkong.gitbooks.io/css-naming-schemes/content/](https://webkong.gitbooks.io/css-naming-schemes/content/)
+
