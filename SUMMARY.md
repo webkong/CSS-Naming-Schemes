@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [代码分类](代码分类.md)
 * [命名规范](代码规范.md)
 * [代码格式](代码格式.md)
 * [代码优化](代码优化.md)
