@@ -10,6 +10,8 @@ CSS的命名规则/准则/方案
 
 本文，50%的内容都来自这个地方[CSS规范](http://nec.netease.com/standard/css-sort.html),个人比较同意这种方式的分类和规划。所以总结了一下。主要是给公司新来的同事看。
 
+当然，本文说的是一般意义上的页面以PC为主。移动端的页面要根据情况。比如：内嵌到安卓或者iOS的APP中的单页面，就会追求尽可能小的体积，可以使用一些单字符作为类，具体视情况而定。
+
 
 
 开源地址：[https://webkong.gitbooks.io/css-naming-schemes/content/](https://webkong.gitbooks.io/css-naming-schemes/content/)
